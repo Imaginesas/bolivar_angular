@@ -53,3 +53,5 @@ footer/!.vscode/tasks.json
 footer/!.vscode/launch.json
 footer/!.vscode/extensions.json
 
+footer/package-lock.json
+header/package-lock.json
